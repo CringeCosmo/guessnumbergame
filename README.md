@@ -1,6 +1,7 @@
-# Guess the number v1.0
+# Guess the number v1.1
 This is a little game I threw together to practice my skills.
 
 # Changelog
-- Uploaded to Github
-- Nothing else ¯\\\_(ツ)_/¯
+- Added in-game changelog.
+- Added ability to play again.
+- General improvements.

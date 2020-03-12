@@ -1,7 +1,5 @@
-# Guess the number v1.1
+# Guess the number v1.2
 This is a little game I threw together to practice my skills.
 
 # Changelog
-- Added in-game changelog.
-- Added ability to play again.
-- General improvements.
+- Added ability to choose upper and lower bounds (integers only).
